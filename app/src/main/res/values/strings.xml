@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">BlastShare</string>
+    <string name="appname">MegaShare</string>
+    <string name="slogan">One App, Many Devices, Endless Sharing.</string>
+    <string name="intro_main">The easiest way to transfer files to multiple devices at once. Enjoy fast, secure, and seamless syncing for all your important documents and media.</string>
+
+    <string name="individualbtnname">Individual</string>
+    <string name="groupbtnname">Group</string>
+    <string name="filebtnname">Files</string>
+    <string name="accountbtnname">Account</string>
+
+    <string name="send">Send</string>
+    <string name="create_server">Create Server</string>
+    <string name="receive">Receive</string>
+    <string name="join_servertxt">Join server</string>
+    <string name="image_button_13_description">Share this item</string>
+    <string name="download_button_description">Download the file</string>
+    <string name="send_button_description">Send the file</string>
+    <string name="qrcode_button_description">Shows the qrcode</string>
+    <string name="scanqrcode_button_description">Scan the qrcode</string>
+    <string name="help_button_description">Shows the help</string>
+
+    <string name="creategroup">Create Group</string>
+    <string name="joingroup">Join Group</string>
+
+    <string name="login_welcometxt">Welcome Back</string>
+    <string name="login_welcometxtlow">Enter your credential to login</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="orsigninwith">Or Sign In With</string>
+    <string name="doyouhaveanaccount">Do you have an account?</string>
+    <string name="continuewithgoogle">Continue with Google</string>
+
+    <string name="signup_createaccount">Create Account</string>
+    <string name="signup_email">Email</string>
+    <string name="register">Register</string>
+    <string name="orsignupwith">Or Sign Up With</string>
+
+    <string name="individual_button_description">Go to Individual</string>
+    <string name="group_button_description">Go to Group</string>
+    <string name="files_button_description">Go to Files</string>
+    <string name="account_button_description">Go to Account</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
